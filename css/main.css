@@ -269,6 +269,7 @@ button {
 .modal-form-check-desc {
   display: flex;
   align-items: center;
+  justify-content: center;
   margin-bottom: 30px;
   color: var(--secondary-color-text-white-them);
   font-size: var(--primery-font-size);
